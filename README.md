@@ -1,7 +1,7 @@
 # Привет! 👋
 
 Меня зовут Sera, и я разработчик, увлеченный созданием интересных и полезных проектов. <br>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fwarthunder-gifs&psig=AOvVaw1diRPlkiPAIn3s5W4UGIil&ust=1740724748161000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjY6paf44sDFQAAAAAdAAAAABAT" alt="909" style="height: auto !important;width: auto !important;" >
+<img src="https://media.tenor.com/QDioC32oTV8AAAAM/war-thunder-asu57.gif" alt="909" style="height: auto !important;width: auto !important;" >
 # О себе
 
 - 🌍 Город: [ИНФОРМАЦИЯ УДАЛЕНА]
