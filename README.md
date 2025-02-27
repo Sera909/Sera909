@@ -22,4 +22,5 @@
 
 
 
-Спасибо за посещение моего профиля! 😊
+Спасибо за посещение моего профиля! 😊 <br>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/5849687306409160262/7584A1A3112F10BF821543FEA2FA13F5E35FA8DB/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="909" style="height: auto !important;width: auto !important;" >   
